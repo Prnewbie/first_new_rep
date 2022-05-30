@@ -1,2 +1,2 @@
 # first_new_rep
-New to bit, trying to get the grasp
+New to git, trying to get the grasp
